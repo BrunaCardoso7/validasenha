@@ -20,13 +20,9 @@ export const Conteiner = styled.div`
         font-size: 18px;
         margin-top: 20px;
         margin-left: 70px;
-        border: 1px solid orange;
+        /* border: 1px solid orange;
         border-radius: 4px;
         color: orange;
-        background-color: white;
-    }
-    button:hover{
-        background-color: orange;
-        color: white;
+        background-color: white; */
     }
 `;
