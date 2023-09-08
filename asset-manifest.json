@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/validasenha/static/js/main.ce27a17e.js",
+    "index.html": "/validasenha/index.html",
+    "main.ce27a17e.js.map": "/validasenha/static/js/main.ce27a17e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce27a17e.js"
+  ]
+}
